@@ -6,13 +6,13 @@
   </a>
   <!--come back to this later and set up links to point to your website which redirects to the end link
   a la tennysonhorn.netlify.app/linkedin instead of straight to https://www.linkedin.com/in/tfhorn67/ -->
-  <a href="https://www.linkedin.com/in/tfhorn67/" target="_blank">
+  <a href="https://tennysonhorn.netlify.app/linkedin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/TennysonHorn" target="_blank">
+  <a href="https://tennysonhorn.netlify.app/twitter" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/tennyson-horn" target="_blank">
+  <a href="https://tennysonhorn.netlify.app/angellist" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="#" name="resume" target="_blank">
